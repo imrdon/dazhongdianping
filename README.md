@@ -2,9 +2,9 @@
 # Dianping Shops User Reviews and Stars Crawler
 
 ![Language Python](https://img.shields.io/badge/Language-Python-red)
-[![License MIT](https://img.shields.io/github/license/imrdon/dazhongdianping.svg?label=License&color=blue)](https://github.com/imrdon/dazhongdianping/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/imrdon/dazhongdianping.svg?style=social&label=Star&maxAge=10)](https://github.com/imdron/dazhongdianping/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/imrdon/dazhongdianping?style=social&label=Fork&maxAge=10)](https://github.com/imrdon/dazhongdianping/network/members/)
+[![License MIT](https://img.shields.io/github/license/imrdong/dazhongdianping.svg?label=License&color=blue)](https://github.com/imrdong/dazhongdianping/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/imrdong/dazhongdianping.svg?style=social&label=Star&maxAge=10)](https://github.com/imrdong/dazhongdianping/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/imrdong/dazhongdianping?style=social&label=Fork&maxAge=10)](https://github.com/imrdong/dazhongdianping/network/members/)
 
 # Background
 
